@@ -1,0 +1,2 @@
+Criação de ficheiro com objeto fstream 
+9 25
